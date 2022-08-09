@@ -2,6 +2,7 @@
 This will be my work space for my CMPG 323 project(s).
 For the successful completion of this module I will need to complete the following tasks:
 # Project 1 (Agile & Scrum)
+* Create project repository
 * Introduction to Agile & Scrum
 * Introduction to Source Control
 * Create GitHub project
@@ -14,6 +15,7 @@ For the successful completion of this module I will need to complete the followi
 * Git & Scrum Certifications
 * Submit Project 1
 # Project 2 (API Development)
+* Create project repository
 * Introduction to Cloud
 * Introduction to APIs
 * Join Microsoft Community
@@ -22,16 +24,19 @@ For the successful completion of this module I will need to complete the followi
 * Cloud Certification
 * Submit Project 2
 # Project 3 (Web App Project Testing Patterns)
+* Create project repository
 * Introduction to Design and Architecture Patterns
 * Web Application Development training
 * Submit Project 3
 # Project 4 (Robotic Process Automation & Testing Project)
+* Create project repository
 * Introduction to Testing
 * Join UiPath Community
 * Robotic Process Automation training
 * Automation & RPA Certification
 * Submit Project 4
 # Project 5 (Reporting Project)
+* Create project repository
 * Introduction to Reporting/Data Visualisation
 * Power BI - Visualisation training
 * Data Visualisation Certification
