@@ -44,7 +44,7 @@ For the successful completion of this module I will need to complete the followi
 
 ## The branching strategy to be used in each project:
 * I plan on using the **GitHub Flow** branching strategy for all my projects since it is a simpler alternative to GitFlow and I believe it will be ideal for me when I work on my project(s) since I won't need to manage multiple versions.
-With this model, I will start off with a main branch in all my projects then I will create branches that will stem directly from the master to isolate my work which will be merged back into main when I'm done. The "develop" branch will then be deleted.
+With this model, I will start off with a `main` branch in all my projects then I will create branches that will stem directly from the `master` to isolate my work which will be merged back into main when I'm done. The "`develop`" branch will then be deleted.
 The main idea behind this will be to keep the master code in a constant deployable state to support continuous integration and continuous delivery processes.
 
 ## Explaining the use of a .gitignore file within each project:
