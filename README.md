@@ -1,5 +1,5 @@
 # CMPG-323-Overview--34570888
-This will be my work space for my CMPG 323 project(s).
+This will be my overview for my CMPG 323 project(s).
 For the successful completion of this module I will need to complete the following tasks:
 # Project 1 (Agile & Scrum)
 * Create project repository
