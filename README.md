@@ -52,3 +52,9 @@ The main idea behind this will be to keep the master code in a constant deployab
 
 ## Explaining the storage of credentials and sensitive information:
 * Storing sensitive information in GitHub is not really a good idea since data in GitHub is not encrypted at rest and is easy to accidentally invite the wrong person. Although one can use `git-credential-store` to store their passwords unencrypted on the disk, where they will be protected only by the permissions of the file system. The credentials can be checked in the `~/.git-credentials`.
+
+## Charts for Project 1
+* https://github.com/users/skizzo-909/projects/6/insights/4
+* https://github.com/users/skizzo-909/projects/6/insights/1
+* https://github.com/users/skizzo-909/projects/6/insights/3
+* https://github.com/users/skizzo-909/projects/6/insights/2
